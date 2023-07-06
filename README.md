@@ -13,7 +13,7 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 </h2> 
 
 <h2> 🔥Use of this script: <h2/>
-<h4># webScraping-prac1
+
 In this project, we make a request to the Wikipedia site and the section related to the list of Game of Thrones chapters and scrape the required data by analyzing the codes of this section.
 
 Libraries required for this section:
@@ -21,7 +21,6 @@ Libraries required for this section:
 2- beautifulsoup
 <br>
 <br>
-<h4/>
 <hr><br>
 I love to learn different things and I try to improve my skills every day 
 
