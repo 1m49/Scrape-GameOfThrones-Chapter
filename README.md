@@ -1,9 +1,4 @@
-# webScraping-prac1
-In this project, we make a request to the Wikipedia site and the section related to the list of Game of Thrones chapters and scrape the required data by analyzing the codes of this section.
 
-Libraries required for this section:
-1- requests
-2- beautifulsoup
 
 <p align="center">
   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/89096381/221362991-8cff922b-0d46-4c13-b7b2-a6e738f32ed2.PNG" alt="my banner"></a>
@@ -18,10 +13,15 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 </h2> 
 
 <h2> 🔥Use of this script: <h2/>
-<h4>Using this script, you can sort the files that have the same extension in their respective folders .
+<h4># webScraping-prac1
+In this project, we make a request to the Wikipedia site and the section related to the list of Game of Thrones chapters and scrape the required data by analyzing the codes of this section.
+
+Libraries required for this section:
+1- requests
+2- beautifulsoup
 <br>
 <br>
-<h3>For example: </h3> we have 100 files with different extensions, by running this script, all the files will be placed in the folder related to them based on the extensions they have (Python files in the Python folder - Excel files in the Excel folder - PD files F inside the PDF folder and...)<h4/>
+<h4/>
 <hr><br>
 I love to learn different things and I try to improve my skills every day 
 
